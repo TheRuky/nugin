@@ -5,5 +5,5 @@ export const Route = createFileRoute('/')({
 });
 
 function Home() {
-  return <h1>Nujin</h1>;
+  return <h1>Nugin</h1>;
 }
